@@ -22,7 +22,7 @@ Autres :
 - Visual Studio
 
 ## Mes formations :
-J'ai aquiis ces compétences de diffférentes manières :
+J'ai aquis ces compétences de diffférentes manières :
 - Je suis en cours de formation chez Elan Formation à strasbourg depuis le 19 juin 2023 jusqu'au 23 février 2024, pourétoffer mes compétences en Développement web et web mobile.
 - Je participe à des cours en ligne pour accélérer mon apprentissage et étoffer mes conaissances
 - Je fait également du C# dans mon temps libre dans le cadre de loisirs
